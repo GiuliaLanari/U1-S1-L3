@@ -11,6 +11,11 @@ footer {
   margin-inline: auto;
   width: 40rem;
 }
+
+video {
+  border-radius: 10px;
+}
+
 .logo {
   text-align: center;
   border-bottom: 1px solid;
