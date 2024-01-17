@@ -1,0 +1,75 @@
+body {
+  margin-block-start: 2rem;
+  margin-inline: auto;
+}
+
+main {
+  margin-inline: auto;
+  width: 40rem;
+}
+
+footer {
+  margin-inline: auto;
+  width: 40rem;
+}
+.logo {
+  text-align: center;
+  border-bottom: 1px solid;
+  border-color: #ffd877;
+  padding-bottom: 20px;
+}
+
+.frase-logo {
+  text-align: center;
+  color: #004d4c;
+}
+
+.titolo-pag {
+  color: #333333;
+  text-align: center;
+}
+
+.p-titolo {
+  color: #333333;
+}
+
+.focaccia-img {
+  border-radius: 10px;
+}
+
+.description-img {
+  color: #999999;
+  text-align: center;
+  margin-block-start: 0;
+}
+
+.featured {
+  color: #b5460f;
+  border-inline-start: 1px solid;
+  padding-left: 1rem;
+}
+
+h2 {
+  color: #333333;
+  border-bottom: 1px solid;
+  border-color: #c4f3f2;
+}
+
+.make {
+  color: #333333;
+  margin: 2rem;
+}
+
+.make-paragrafo {
+  color: #333333;
+  margin-left: 1rem;
+}
+
+li {
+  color: #333333;
+  padding: 0.5rem;
+}
+
+a {
+  color: #107777;
+}
